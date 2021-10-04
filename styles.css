@@ -29,8 +29,8 @@
 }
 
 #navbar__logo {
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #CD8EF6;
+    background-image: linear-gradient(to top, #57048C 0%, #CD8EF6 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -85,7 +85,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #CD8EF6;
     color: #fff;
 }
 
@@ -95,7 +95,7 @@
 }
 
 .navbar__links:hover {
-    color: #f77062;
+    color: #CD8EF6;
     transition: all 0.3s ease;
 }
 
