@@ -1,1 +1,5 @@
 TODO:
+
+1. Structure Files
+2. Work on Nav Bar
+3. Style Nav Bar
