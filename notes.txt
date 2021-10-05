@@ -1,5 +1,5 @@
 TODO:
 
 1. Structure Files
-2. Work on Nav Bar
+2. Work on Nav Bar - Create divs for each component
 3. Style Nav Bar
