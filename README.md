@@ -1,2 +1,1 @@
-# Naythan's Website
-It's a pretty cool one
+Experimental website - not hosted, check my Saber website for an example of one of my hosted websites.
